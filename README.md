@@ -19,7 +19,6 @@ A comprehensive web application and progressive web app for calculating hearing 
 - Real-time updates as values are entered
 - Support for both right and left ear data
 - Interactive tooltips with detailed information
-- Dark mode support
 
 ### 3. Accessibility Features
 - Keyboard shortcuts (Ctrl/⌘ + Enter to calculate, Esc to reset)
@@ -27,6 +26,8 @@ A comprehensive web application and progressive web app for calculating hearing 
 - Responsive design for all device sizes
 - Error messages and validation feedback
 - High contrast color scheme
+- Dark mode support
+- Design tweaked for Desktop and Mobile with subtle differences
 
 ### 4. Results Management
 - Email functionality to share results
