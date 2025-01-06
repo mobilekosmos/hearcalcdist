@@ -63,5 +63,7 @@ A comprehensive web application and progressive web app for calculating hearing 
   - Bahasa Indonesia (Indonesian)
 
 URL (will change once possible): 
+
 Offline version: https://hearing-calc-34.lovable.app/
+
 With online functions: https://hearing-calc-53.lovable.app/
