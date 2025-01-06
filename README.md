@@ -38,9 +38,7 @@ A comprehensive web application and progressive web app for calculating hearing 
 ### 5. Progressive Web App (PWA)
 - Install the app on any device (iOS, Android, Desktop)
 - Offline functionality
-- Automatic updates
 - Native app-like experience
-- Push notifications support
 - Home screen icon
 
 ### 6. Internationalization
